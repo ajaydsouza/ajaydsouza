@@ -119,7 +119,7 @@ I write to explain *why* something exists, not just *how* it works.
 ## Elsewhere
 
 - WordPress.org profile  
-  https://profiles.wordpress.org/ajaydsouza/
+  https://profiles.wordpress.org/ajay/
 
 - GitHub  
   https://github.com/ajaydsouza
