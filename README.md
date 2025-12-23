@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I am Ajay D'Souza. I've been blogging since 2003 and building WordPress plugins since 2005. You can find them at [WebberZone](https://webberzone.com).
+I am Ajay D'Souza. I've been blogging since 2003 and building WordPress plugins since 2005. You can find them at [WebberZone](https://webberzone.com/plugins/).
 
-[![WordPress Badge](https://img.shields.io/badge/WordPress-black?logo=wordpress&logoColor=white&style=for-the-badge)](https://profiles.wordpress.org/ajay/) [![Follow on X](https://img.shields.io/twitter/follow/ajaydsouza)](https://x.com/ajaydsouza) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaydsouza/) [![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ajaydsouzacom)
+[![WordPress Badge](https://img.shields.io/badge/WordPress-black?logo=wordpress&logoColor=white&style=for-the-badge)](https://profiles.wordpress.org/ajay/)
+[![Follow on X](https://img.shields.io/twitter/follow/ajaydsouza)](https://x.com/ajaydsouza)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaydsouza/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ajaydsouzacom)
 
 # Ajay D’Souza
 
@@ -29,46 +32,41 @@ WordPress, MySQL, performance, and long-term maintenance.
 
 ---
 
-## Open-source plugins (WordPress.org)
+## Open-source plugins
+
+All plugins are listed here:  
+👉 https://webberzone.com/plugins/
 
 ### Search & discovery
 
 - **Better Search**  
-  Advanced search with FULLTEXT, Boolean mode, phrase search, exclusions, and multisite support.  
-  https://wordpress.org/plugins/better-search/
+  Advanced search with FULLTEXT, Boolean mode, phrase search, exclusions, and multisite support.
 
 - **Contextual Related Posts**  
-  Privacy-first related posts. No tracking. No third-party APIs.  
-  https://wordpress.org/plugins/contextual-related-posts/
+  Privacy-first related posts. No tracking. No third-party APIs.
 
 ---
 
 ### Analytics & engagement
 
 - **Top 10**  
-  Accurate post view tracking built for high-traffic sites and multisite networks.  
-  https://wordpress.org/plugins/top-10/
+  Accurate post view tracking built for high-traffic sites and multisite networks.
 
 - **Popular Authors**  
-  Identify and surface your most-read authors using real visit data.  
-  https://wordpress.org/plugins/popular-authors/
+  Identify and surface your most-read authors using real visit data.
 
 ---
 
 ### Content & UX utilities
 
 - **Knowledge Base**  
-  A structured knowledge base plugin with multiple layouts and REST support.  
-  https://wordpress.org/plugins/knowledge-base/
+  A structured knowledge base plugin with multiple layouts and REST support.
 
 - **Followed Posts**  
-  Let logged-in users follow posts and receive updates.  
-  https://wordpress.org/plugins/followed-posts/
+  Let logged-in users follow posts and receive updates.
 
 - **Snippetz**  
-  Insert reusable content snippets anywhere on your site.  
-  https://wordpress.org/plugins/snippetz/
-
+  Insert reusable content snippets anywhere on your site.
 
 ---
 
